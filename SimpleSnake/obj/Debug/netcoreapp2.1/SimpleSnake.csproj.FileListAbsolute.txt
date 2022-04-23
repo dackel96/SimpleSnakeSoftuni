@@ -1,0 +1,13 @@
+D:\C# OOP\11.Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+D:\C# OOP\11.Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+D:\C# OOP\11.Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+D:\C# OOP\11.Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\C# OOP\11.Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\C# OOP\11.Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.AssemblyReference.cache
+D:\C# OOP\11.Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\11.Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+D:\C# OOP\11.Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+D:\C# OOP\11.Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\C# OOP\11.Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\C# OOP\11.Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\C# OOP\11.Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
